@@ -1,7 +1,7 @@
 config: 
   info: "this is a test config by george"
 spring: 
-  datasource:
+  datasource: 
     type: com.alibaba.druid.pool.DruidDataSource
     #mysql5.x的没有cj
     driver-class-name: com.mysql.cj.jdbc.Driver
