@@ -8,4 +8,4 @@ spring:
     username: root
     password: root
 config: 
-  info: this is the test file from george.
+  info: this is the test file from george-v1.
